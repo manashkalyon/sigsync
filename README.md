@@ -6,8 +6,11 @@ and is a work in progress. New features and bug fixes will continue to be pushed
 If you have any questions, concerns, feature requests, or bug reports please feel free to contact me directly:
 
 Manash K. Sahoo
+
 Indiana University-Bloomington
+
 Undergraduate, Psychology B.S.
+
 mksahoo@iu.edu
 
 

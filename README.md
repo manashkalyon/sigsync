@@ -3,6 +3,13 @@
 SigSync is an application that allows users to synchronize multiple streams of data. It is written in MATLAB using the MATLAB App Designer (R2020a), 
 and is a work in progress. New features and bug fixes will continue to be pushed via [Github](https://www.github.com/manashkalyon/sigsync).
 
+If you have any questions, concerns, feature requests, or bug reports please feel free to contact me directly:
+
+Manash K. Sahoo
+Indiana University-Bloomington
+Undergraduate, Psychology B.S.
+mksahoo@iu.edu
+
 
 ## Installation
 
@@ -34,4 +41,7 @@ If you have a valid MATLAB subscription, you may run sigsync/GuiMatch.mlapp dire
 Bugs and new feature requests should be reported to Manash Sahoo at `mksahoo@iu.edu` under the subject: "SigSync Request"
 
 
-Special thanks to the IU Department of Psychological and Brain Sciences, IU Department of Undergraduate Research, Jeremy I. Borjon PhD, and Linda Smith PhD.
+
+
+
+*Special thanks to the IU Department of Psychological and Brain Sciences, IU Department of Undergraduate Research, Jeremy I. Borjon PhD, and Linda Smith PhD.*

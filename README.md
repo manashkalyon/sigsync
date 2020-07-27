@@ -8,11 +8,13 @@ and is a work in progress.
 
 ### Requirements
 All Operating Systems:
+
 [MATLAB Runtime (R2020a)](https://www.mathworks.com/products/compiler/matlab-runtime.html)
 
 At least 4GB RAM is recommended.
 
 Mac OSX:
+
   WineHQ
 
 #### Windows 7/10

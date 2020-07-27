@@ -40,7 +40,13 @@ If you have a valid MATLAB subscription, you may run sigsync/GuiMatch.mlapp dire
 
 Bugs and new feature requests should be reported to Manash Sahoo at `mksahoo@iu.edu` under the subject: "SigSync Request"
 
+#### File Formats
 
+Signals should follow the following format:
+   * Stored in a .CSV or .XLSX file
+   * First column vector should represent time-values (X Axis)
+   * Second column vector should represent dependent variable (Y Axis)  
+Video files should be of .mp4, .mov, or .avi
 
 
 

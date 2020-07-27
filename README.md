@@ -27,3 +27,6 @@ However, if you have issues using the installer try installing MATLAB runtime ma
 
 Download the OSX MATLAB runtime for R2020a (see requirements), and Wine. Under sigsync/bin, right click GUIMatch.exe and click "Run with Wine"
 
+#### Notes
+
+If you have a valid MATLAB subscription, you may run sigsync/GuiMatch.mlapp directly through MATLAB and run the code manually. Note that GuiMatch.mlapp *must* remain in the same directory as its surrounding `.m` files. 

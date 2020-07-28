@@ -50,4 +50,4 @@ Video files should be of .mp4, .mov, or .avi
 
 
 
-*Special thanks to the IU Department of Psychological and Brain Sciences, IU Department of Undergraduate Research, Jeremy I. Borjon PhD, and Linda Smith PhD.*
+*Special thanks to the IU Department of Psychological and Brain Sciences, IU Department of Undergraduate Research, Jeremy I. Borjon PhD, and Linda B. Smith PhD.*

@@ -20,7 +20,7 @@ All Operating Systems:
 
   * At least 4GB RAM is recommended.
 
-Mac OSX:
+Mac OSX and Linux Distros:
 
   * WineHQ
 

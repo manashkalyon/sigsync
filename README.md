@@ -26,8 +26,8 @@ Mac OSX:
 
 #### Windows 7/10
 
-Under sigsync/bin, run SigSync_installer.exe. This will also install MATLAB runtime (free), which is required to run this application. If you already have MATLAB runtime installed, you may try 
-However, if you have issues using the installer try installing MATLAB runtime manually.
+Under sigsync/bin, run SigSync_installer.exe. This will also install MATLAB runtime (free), which is required to run this application. If you already have MATLAB runtime installed, you may try running sigsync/bin/SigSync.exe by itself.
+However, if you have issues using the installer, try installing MATLAB runtime manually (link above).
 
 
 #### Mac OSX

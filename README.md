@@ -7,7 +7,7 @@ If you have any questions, concerns, feature requests, or bug reports please fee
 
 `Manash K. Sahoo  `  
 `Indiana University-Bloomington  `  
-`Undergraduate, Psychology B.S  `  
+`Undergraduate, Psychology B.S.  `  
 `mksahoo@iu.edu`
 
 

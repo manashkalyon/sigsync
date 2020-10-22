@@ -1,7 +1,7 @@
 # SigSync
 
 SigSync is an application that allows users to synchronize multiple streams of data. It is written in MATLAB using the MATLAB App Designer (R2020a), 
-and is a work in progress. Some features may be complete, or not work at all. New features and bug fixes will continue to be pushed via [Github](https://www.github.com/manashkalyon/sigsync).
+and is a work in progress. Some features may be incomplete, or not work at all. New features and bug fixes will continue to be pushed via [Github](https://www.github.com/manashkalyon/sigsync).
 
 If you have any questions, concerns, feature requests, or bug reports please feel free to contact me directly:
 

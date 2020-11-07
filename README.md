@@ -46,6 +46,8 @@ Signals should follow the following format:
    * Stored in a .CSV or .XLSX file
    * First column vector should represent time-values (X Axis)
    * Second column vector should represent dependent variable (Y Axis)  
+Example of a .csv input file:
+(https://imgur.com/x0vdT96)
 Video files should be of .mp4, .mov, or .avi
 
 #### Current Issues

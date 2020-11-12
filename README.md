@@ -1,13 +1,13 @@
 # SigSync
 
 SigSync is an application that allows users to synchronize multiple streams of data. It is written in MATLAB using the MATLAB App Designer (R2020a), 
-and is a work in progress. Some features may be incomplete, or not work at all. New features and bug fixes will continue to be pushed via [Github](https://www.github.com/manashkalyon/sigsync).
+and is a work in progress. Some features may be complete, or not work at all. New features and bug fixes will continue to be pushed via [Github](https://www.github.com/manashkalyon/sigsync).
 
 If you have any questions, concerns, feature requests, or bug reports please feel free to contact me directly:
 
 `Manash K. Sahoo  `  
 `Indiana University-Bloomington  `  
-`Undergraduate, Psychology B.S.  `  
+`Undergraduate, Psychology B.S  `  
 `mksahoo@iu.edu`
 
 
@@ -46,10 +46,6 @@ Signals should follow the following format:
    * Stored in a .CSV or .XLSX file
    * First column vector should represent time-values (X Axis)
    * Second column vector should represent dependent variable (Y Axis)  
-Example of a .csv input file:
-
-![Example] (https://i.imgur.com/x0vdT96.png, "Example")
-
 Video files should be of .mp4, .mov, or .avi
 
 #### Current Issues

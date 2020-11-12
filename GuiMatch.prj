@@ -1,9 +1,9 @@
 <deployment-project plugin="plugin.ezdeploy" plugin-version="1.0">
-  <configuration build-checksum="2636844588" file="C:\Users\Kal Sahoo\Desktop\SigSync GitHub - Copy\sigsync\GuiMatch.prj" location="C:\Users\Kal Sahoo\Desktop\SigSync GitHub - Copy\sigsync" name="GuiMatch" preferred-package-location="C:\Users\Kal Sahoo\MATLAB Drive\ANotB Data\GuiMatch\for_redistribution" preferred-package-type="package.type.exe" target="target.ezdeploy.standalone" target-name="Application Compiler">
-    <param.appname>SigSync</param.appname>
+  <configuration build-checksum="2636844588" file="C:\Users\Kal Sahoo\Desktop\SigSync GitHub - Copy\sigsync 1.1.1\GuiMatch.prj" location="C:\Users\Kal Sahoo\Desktop\SigSync GitHub - Copy\sigsync 1.1.1" name="GuiMatch" preferred-package-location="C:\Users\Kal Sahoo\MATLAB Drive\ANotB Data\GuiMatch\for_redistribution" preferred-package-type="package.type.exe" target="target.ezdeploy.standalone" target-name="Application Compiler">
+    <param.appname>GuiMatch</param.appname>
     <param.icon />
     <param.icons />
-    <param.version>1.1.1</param.version>
+    <param.version>1.1</param.version>
     <param.authnamewatermark>Manash K Sahoo</param.authnamewatermark>
     <param.email>mksahoo@iu.edu</param.email>
     <param.company>Indiana University Bloomington</param.company>
@@ -11,7 +11,7 @@
     <param.description>SigSync is an application that allows users to synchronize multiple signals to a video.</param.description>
     <param.screenshot />
     <param.guid />
-    <param.installpath.string>\Indiana University Bloomington\SigSync\</param.installpath.string>
+    <param.installpath.string>\Indiana University Bloomington\GuiMatch\</param.installpath.string>
     <param.installpath.combo>option.installpath.programfiles</param.installpath.combo>
     <param.logo />
     <param.install.notes />
@@ -41,9 +41,7 @@
 	 
  Input Arguments 
 	 -?  print help on how to use the application 
-	 input arguments 
- Description 
- 	 SigSync is an application that allows users to synchronize multiple signals to a video.</param.help.text>
+	 input arguments</param.help.text>
     <unset>
       <param.icon />
       <param.icons />
@@ -82,22 +80,30 @@
     <fileset.resources />
     <fileset.package />
     <fileset.depfun>
-      <file>C:\Users\Kal Sahoo\MATLAB Drive\ANotB Data\FindFs.m</file>
-      <file>C:\Users\Kal Sahoo\MATLAB Drive\ANotB Data\forgen.m</file>
-      <file>C:\Users\Kal Sahoo\MATLAB Drive\ANotB Data\gen.m</file>
-      <file>C:\Users\Kal Sahoo\MATLAB Drive\ANotB Data\LP_Submen.mlapp</file>
-      <file>C:\Users\Kal Sahoo\MATLAB Drive\ANotB Data\resamp.m</file>
-      <file>C:\Users\Kal Sahoo\MATLAB Drive\ANotB Data\selectDatapoints.m</file>
+      <file>${PROJECT_ROOT}\FindFs.m</file>
+      <file>${PROJECT_ROOT}\forgen.m</file>
+      <file>${PROJECT_ROOT}\frame2plot.m</file>
+      <file>${PROJECT_ROOT}\gen.m</file>
+      <file>${PROJECT_ROOT}\LP_Submen.mlapp</file>
+      <file>${PROJECT_ROOT}\resamp.m</file>
+      <file>${PROJECT_ROOT}\selectDatapoints.m</file>
     </fileset.depfun>
     <build-deliverables>
-      <file location="${PROJECT_ROOT}\GuiMatch\for_testing" name="readme.txt" optional="true">C:\Users\Kal Sahoo\Desktop\SigSync GitHub - Copy\sigsync\GuiMatch\for_testing\readme.txt</file>
-      <file location="${PROJECT_ROOT}\GuiMatch\for_testing" name="splash.png" optional="false">C:\Users\Kal Sahoo\Desktop\SigSync GitHub - Copy\sigsync\GuiMatch\for_testing\splash.png</file>
-      <file location="${PROJECT_ROOT}\GuiMatch\for_testing" name="SigSync.exe" optional="false">C:\Users\Kal Sahoo\Desktop\SigSync GitHub - Copy\sigsync\GuiMatch\for_testing\SigSync.exe</file>
+      <file location="${PROJECT_ROOT}\GuiMatch\for_testing" name="splash.png" optional="false">C:\Users\Kal Sahoo\Desktop\SigSync GitHub - Copy\sigsync 1.1.1\GuiMatch\for_testing\splash.png</file>
+      <file location="${PROJECT_ROOT}\GuiMatch\for_testing" name="GuiMatch.exe" optional="false">C:\Users\Kal Sahoo\Desktop\SigSync GitHub - Copy\sigsync 1.1.1\GuiMatch\for_testing\GuiMatch.exe</file>
+      <file location="${PROJECT_ROOT}\GuiMatch\for_testing" name="readme.txt" optional="true">C:\Users\Kal Sahoo\Desktop\SigSync GitHub - Copy\sigsync 1.1.1\GuiMatch\for_testing\readme.txt</file>
     </build-deliverables>
     <workflow />
     <matlab>
       <root>C:\Program Files\MATLAB\R2020a</root>
-      <toolboxes />
+      <toolboxes>
+        <toolbox name="neuralnetwork" />
+      </toolboxes>
+      <toolbox>
+        <neuralnetwork>
+          <enabled>true</enabled>
+        </neuralnetwork>
+      </toolbox>
     </matlab>
     <platform>
       <unix>false</unix>

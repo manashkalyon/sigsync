@@ -1,5 +1,6 @@
 function [plotobj] = frame2plot(ax,dat)
     
+    dat = csvread(dat);
     
     numcols = size(dat);
     numcols = numcols(2);

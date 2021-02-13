@@ -45,7 +45,8 @@ Bugs and new feature requests should be reported to Manash Sahoo at `mksahoo@iu.
 Signals should follow the following format:
    * Stored in a .CSV or .XLSX file
    * First column vector should represent time-values (X Axis)
-   * Second column vector should represent dependent variable (Y Axis)  
+   * Second column vector should represent dependent variable (Y Axis)
+   * NO headers  
 Video files should be of .mp4, .mov, or .avi
 
 #### Current Issues
@@ -58,4 +59,4 @@ Exporting as .GIF does not work
       
         
 
-*Special thanks to the IU Department of Psychological and Brain Sciences, IU Department of Undergraduate Research, Jeremy I. Borjon PhD, and Linda B. Smith PhD.*
+*Special thanks to the IU Department of Psychological and Brain Sciences, IU Department of Undergraduate Research, Dr. Jeremy I. Borjon, and Dr. Linda B. Smith.*

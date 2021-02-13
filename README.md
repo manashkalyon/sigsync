@@ -6,7 +6,8 @@ and is a work in progress. Some features may be complete, or not work at all. Ne
 If you have any questions, concerns, feature requests, or bug reports please feel free to contact me directly:
 
 `Manash K. Sahoo | Psychology B.S.  `  
-`Department of Psychological and Brain Sciences, Indiana University-Bloomington  `   
+`Department of Psychological and Brain Sciences`
+`Indiana University-Bloomington  `   
 `mksahoo@iu.edu`
 
 

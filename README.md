@@ -38,7 +38,7 @@ Download the OSX MATLAB runtime for R2020a (see requirements), and Wine. Under s
 
 If you have a valid MATLAB subscription, you may run sigsync/GuiMatch.mlapp directly through MATLAB and run the code manually. Note that GuiMatch.mlapp *must* remain in the same directory as its surrounding `.m` files. 
 
-Bugs and new feature requests should be reported to Manash Sahoo at `mksahoo@iu.edu` under the subject: "SigSync Request"
+
 
 #### File Formats
 
